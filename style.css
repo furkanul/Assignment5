@@ -1,0 +1,60 @@
+body {
+    background: #edd263;
+}
+.custom-input {
+    width: 50%;
+    padding: 10px;
+    border: none;
+}
+.search-option {
+    text-align: center;
+}
+
+#search-btn {
+    border: navajowhite;
+    padding: 10px 20px;
+    background: blue;
+    color: white;
+}
+#singleMealDetails img{
+    height: 205px;
+}
+.custom-css {
+    cursor: pointer;
+}
+#singleMealDetails{
+    background-color: #ffff;
+    width: 250px;
+    border-radius: 6px;
+}
+.icon{
+    background: #3b2d64;
+    color: white;
+    font-size: 9px;
+    margin-right: 8px;
+    border-radius: 3px;
+    padding: 3px 5px;
+}
+p{
+    font-size: 15px;
+}
+
+.custom-design {
+    width: 40%;
+    margin: auto;
+    text-align: center;
+    border-radius: 10px;
+    background: white;
+    padding: 20px;
+}
+
+.error {
+    color: #ff8100;
+    font-size: 45px;
+    border-radius: 53px;
+}
+
+.custom-design h3 {
+    color: #f1c40c;
+    margin-top: 17px;
+}
